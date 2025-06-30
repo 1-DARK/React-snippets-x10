@@ -54,4 +54,3 @@ Contributions are welcome! Please:
 
 MIT License - feel free to use these snippets in your personal and commercial projects.
 
----
